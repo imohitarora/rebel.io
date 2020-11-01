@@ -6,7 +6,7 @@
       "schematics": {},
       "root": "apps/accord",
       "sourceRoot": "apps/accord/src",
-      "prefix": "rebel.io",
+      "prefix": "rebelio",
       "architect": {
         "build": {
           "builder": "@angular-devkit/build-angular:browser",
